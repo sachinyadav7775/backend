@@ -1,6 +1,7 @@
 Backend
 
 The backend handles the server-side logic of the application, manages database operations, processes API requests, and provides data to the frontend.
+
 Technologies Used
 
     Runtime: Node.js
